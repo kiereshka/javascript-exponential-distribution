@@ -17,3 +17,4 @@ to the interval P[a,b]=F(b)-F(a).
 index as the interval.
 4. After replacement, the resulting string of letters is output.
 5. Based on the linguistic series, the following matrix is constructed
+![image](https://github.com/kiereshka/javascript-exponential-distribution/assets/106348326/a71c8c5b-7300-43ad-b787-c62bc84c9464)
